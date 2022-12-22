@@ -1,4 +1,4 @@
-# AdTracking-Fraud-Detection
+# AdTracking-Click-Fraud-Detection
 
 - Analyzed dataset of over 200 million ad clicks and used machine learning techniques such as Logistic Regression, Random Forest, XGboost, SVM, and Recurrent Neural Network (RNN) to build model that could predict probability of an ad click being fraudulent.
 
